@@ -34,8 +34,8 @@ p {
     letter-spacing: 0.5px;
 }
 a{
-    margin-left: 12px;
-    font-size: 18px;
+    margin-left: 10px;
+    font-size: 15px;
 }
 .second-image{
     margin-top: -80px;    /* 往上推開 30 像素（讓圖片往下移） */

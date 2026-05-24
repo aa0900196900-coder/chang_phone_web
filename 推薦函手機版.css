@@ -2,14 +2,14 @@ body{
     background-color: antiquewhite;
 }
 a{
-    font-size: 18px;
-    margin-left: 12px;
+    font-size: 15px;
+    margin-left: 10px;
 }
 .profile-img {
     margin-top: 40px;    /* 往上推開 30 像素（讓圖片往下移） */
-    margin-left: 10px; /* 往下推開 40 像素（讓卡片往下移） */
-    width: 200px;           /* 1. 限制圖片寬度為 200 像素 */
-    height: 280px;          /* 2. 限制圖片高度為 200 像素 */
+    margin-left: 2px; /* 往下推開 40 像素（讓卡片往下移） */
+    width: 320px;           /* 1. 限制圖片寬度為 200 像素 */
+    height: 410px;          /* 2. 限制圖片高度為 200 像素 */
     
    /* object-fit: cover;      /* 3. 關鍵：保持圖片比例，多餘的會被裁切，臉才不會變形 */
     
