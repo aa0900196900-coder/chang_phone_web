@@ -6,8 +6,9 @@ a{
     margin-left: 10px;
 }
 .profile-img {
-    margin-top: 40px;    /* 往上推開 30 像素（讓圖片往下移） */
-    margin-left: 6.5px; /* 往下推開 40 像素（讓卡片往下移） */
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
     width: 360px;           /* 1. 限制圖片寬度為 200 像素 */
     height: 480px;          /* 2. 限制圖片高度為 200 像素 */
     
